@@ -3,8 +3,7 @@ Quick start :
   1. run : 
 			
 			from google.colab import files
-    	
-			files.upload()
+    			files.upload()
    
 	 Upload the ratings.csv and movies.csv
- 2. After upload run all blocks 
+ 2. After uploading, run all blocks 
